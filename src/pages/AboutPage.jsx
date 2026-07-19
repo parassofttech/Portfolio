@@ -462,7 +462,7 @@ to-purple-600
 
 <img
 
-src="/profile.jpg"
+src="/paras.webp"
 
 alt="Paras Sahu"
 

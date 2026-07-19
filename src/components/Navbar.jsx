@@ -242,7 +242,7 @@ const Navbar = () => {
                 whileTap={{
                   scale: 0.95,
                 }}
-                href="/resume.pdf"
+                href="/resume-paras.pdf"
                 download
                 className="group flex items-center gap-2 rounded-full bg-linear-to-r from-cyan-500 to-blue-600 text-white px-6 py-3 font-semibold shadow-xl"
               >
@@ -435,7 +435,7 @@ const Navbar = () => {
                 <motion.a
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.96 }}
-                  href="/resume.pdf"
+                  href="/resume-paras.pdf"
                   download
                   className="w-full flex items-center justify-center gap-3 rounded-2xl bg-linear-to-r from-purple-600 to-pink-600 text-white py-4 font-bold shadow-xl"
                 >

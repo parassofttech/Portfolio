@@ -268,7 +268,7 @@ const HeroSection = () => {
                 scale:1.05
               }}
 
-              href="/resume.pdf"
+              href="/resume-paras.pdf"
 
               download
 
