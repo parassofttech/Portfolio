@@ -428,7 +428,7 @@ const HeroSection = () => {
 
             <img
 
-              src="/profile.jpg"
+              src="/paras.webp"
 
               alt="Paras Full Stack Developer"
 
@@ -438,7 +438,8 @@ const HeroSection = () => {
               object-cover
               "
 
-            />
+            /> 
+           
 
 
           </motion.div>

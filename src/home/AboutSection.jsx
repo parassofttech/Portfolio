@@ -226,7 +226,7 @@ const AboutSection = () => {
 
                 <img
 
-                  src="/profile.jpg"
+                  src="/paras.webp"
 
                   alt="About Paras Full Stack Developer"
 
@@ -238,6 +238,7 @@ const AboutSection = () => {
                 />
 
               </div>
+              
 
 
             </div>
